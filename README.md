@@ -1,1 +1,3 @@
-# my-website
+#My Website
+
+This is a really awesome website. I'm loving learning Git and GitHub.
