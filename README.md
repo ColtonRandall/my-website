@@ -6,5 +6,5 @@ Updating readme file on master before rebase.
 
 ## Purpose    
 
-This file is just a readme file.
+This file is just a readme file
 
